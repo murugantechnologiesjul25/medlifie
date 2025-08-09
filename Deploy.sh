@@ -1,4 +1,5 @@
 This file contains ythe deployment Script
 Updating...
-hello this line was updated on 3rd Aug.
+hello this line was updated on 3rd aug
+Hello tthis line from master branch
 
